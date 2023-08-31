@@ -1,15 +1,15 @@
 [submodule "cimgui"]
 	path = cimgui
-	url = https://github.com/extrawurst/cimgui
+	url = git@github.com:bonfirestudios/cimgui.git
 [submodule "cimplot"]
 	path = cimplot
-	url = https://github.com/cimgui/cimplot.git
+	url = git@github.com:bonfirestudios/cimplot.git
 [submodule "cimnodes"]
 	path = cimnodes
-	url = https://github.com/cimgui/cimnodes.git
+	url = git@github.com:bonfirestudios/cimnodes.git
 [submodule "cimguizmo"]
 	path = cimguizmo
-	url = https://github.com/cimgui/cimguizmo.git
+	url = git@github.com:bonfirestudios/cimguizmo.git
 [submodule "cnetimgui"]
 	path = cnetimgui
 	url = git@github.com:bonfirestudios/cnetimgui.git

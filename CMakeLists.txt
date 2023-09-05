@@ -10,6 +10,7 @@ add_definitions(-DIMNODES_NAMESPACE=imnodes)
 
 add_library(cimgui SHARED 
     cimgui/cimgui.cpp
+    cimgui/cimgui_bonfire.cpp
     cimgui/imgui/imgui.cpp
     cimgui/imgui/imgui_draw.cpp
     cimgui/imgui/imgui_demo.cpp
